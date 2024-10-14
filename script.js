@@ -3,7 +3,7 @@
 let user = {
   name: "Alla Ivanova",
   age: 28,
-  email: "alla.iv@example.com",
+  email: "alla.iva@example.com",
 };
 
 console.group("Задание 1");
